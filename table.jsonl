@@ -1,0 +1,6 @@
+{
+"account": "The 'account' table in the 'VyttahMasters' dataset serves as a comprehensive repository for various account details, including IDs, types, contact information, creation/modification timestamps, and status indicators. Additionally, it includes references to related tables for additional context, like country details and compliance information, providing a thorough overview of managed accounts."
+}
+{
+"account_category": "The 'account_category' table in the 'VyttahMasters' dataset stores information related to different categories of accounts. It includes columns such as 'code' for the account category code, 'description' for any additional details, 'is_active' to indicate the active status, and 'deleted' to mark if the category has been removed. Additionally, it tracks metadata like creation and last modification timestamps, along with references to the company and user who created or modified the category."
+}

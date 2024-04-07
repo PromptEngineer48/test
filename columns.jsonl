@@ -1,0 +1,605 @@
+{"dataset_name": "VyttahMasters", "table_name": "NaN", "column_name": "NaN", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "business_address", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "city", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "is_confidential", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "is_future", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "is_spot", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "other_account_detail_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "margin_limit_id", "description": "Refers to margin limit table which has other margin limit related data for account"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "country_id", "description": "Refers to country table"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "compliance_officer_detail_id", "description": "Refers to  compliance_officer_datail table"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "base_currency_id", "description": "Base currency of account"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "bank_detail_id", "description": "Refers to bank_datail table which has other bank related data for account"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "analytical_detail_id", "description": "Refers to analytical  table which has other analytical data for account"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "account_group_id", "description": "Refers to account group table- its group of account"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "website_url", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "type", "description": "Account type  - CUSTOMER,SUPPLIER,BANK,GENERAL"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "sort_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "skype_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "other_address", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "note", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "im", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "home_address", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "email", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account", "column_name": "code", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_category", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_category", "column_name": "code", "description": "account catagory code"}
+{"dataset_name": "VyttahMasters", "table_name": "account_category", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_category", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_category", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_category", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_category", "column_name": "short_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_category", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_category", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_category", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_category", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_contact_list", "column_name": "contact_list_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_contact_list", "column_name": "account_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "NaN", "column_name": "NaN", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_currencies", "column_name": "currencies_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_currencies", "column_name": "account_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "NaN", "column_name": "NaN", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_group", "column_name": "name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_group", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_group", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_group", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_group", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_group", "column_name": "account_group_map_name", "description": "Mapper field name as per the default account (group) creation sheet, used to map user entered account group names"}
+{"dataset_name": "VyttahMasters", "table_name": "account_group", "column_name": "parent_group_id", "description": "refrence to account group "}
+{"dataset_name": "VyttahMasters", "table_name": "account_group", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_group", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_group", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_group", "column_name": "account_list_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_group", "column_name": "account_group_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "NaN", "column_name": "NaN", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_manager", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_manager", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_manager", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_manager", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_manager", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_manager", "column_name": "employee_id", "description": "reference to salesman table"}
+{"dataset_name": "VyttahMasters", "table_name": "account_manager", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_manager", "column_name": "code", "description": "account manager code"}
+{"dataset_name": "VyttahMasters", "table_name": "account_manager", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_manager", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_manager", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "NaN", "column_name": "NaN", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_work_detail_list", "column_name": "account_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "account_work_detail_list", "column_name": "work_detail_list_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "scrap_adj_code", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "sub_ledger_present", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "term_days", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "credit_limit", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "type_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "salesman_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "area_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "account_manager_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "account_category_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "risk", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "ho_account", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "analytical_detail", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "area", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "area", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "area", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "area", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "area", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "area", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "area", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "area", "column_name": "short_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "area", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "area", "column_name": "code", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "area", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "account_no", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "account_type", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "bank_cheque_account", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "commission_account", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "discount_account", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "interest_account", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "over_draft_limit", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "bank_detail", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "quantity_round_off", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "gpc_code", "description": "profit center code for a given commodity"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "quantity_format", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "order_parameter_id", "description": "reference to order parameters table"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "code", "description": "commodity code"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity_margin_limit", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity_margin_limit", "column_name": "commodity_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity_margin_limit", "column_name": "margin_limit_id", "description": "reference to margin limit table"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity_margin_limit", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity_margin_limit", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity_margin_limit", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity_margin_limit", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity_margin_limit", "column_name": "limit", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity_margin_limit", "column_name": "margin", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity_margin_limit", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "commodity_margin_limit", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "compliance_officer_detail", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "compliance_officer_detail", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "compliance_officer_detail", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "compliance_officer_detail", "column_name": "exp_date", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "compliance_officer_detail", "column_name": "name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "compliance_officer_detail", "column_name": "emirate_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "compliance_officer_detail", "column_name": "contact_number", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "compliance_officer_detail", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "compliance_officer_detail", "column_name": "passport_no", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "compliance_officer_detail", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "compliance_officer_detail", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "compliance_officer_detail", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "other_address", "description": "we have three type of address. Business, Home and Other"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "birth_date", "description": "birth date of contact"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "is_active", "description": "This shows whether contact is active or inactive"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "id", "description": "unique id"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "business_address", "description": "business address of contact"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "code", "description": "code of contact"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "company", "description": "company name of contact"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "contact_name", "description": "name of contact"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "designation", "description": "designation of contact"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "gender", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "home_address", "description": "home address of contact"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "note", "description": "some note(description)"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "country_id", "description": "refers to country table"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_contact_list", "column_name": "contact_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_contact_list", "column_name": "contact_list_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_detail", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_detail", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_detail", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_detail", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_detail", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_detail", "column_name": "name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_detail", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_detail", "column_name": "value", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_detail", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_work_detail_list", "column_name": "contact_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contact_work_detail_list", "column_name": "work_detail_list_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "metal_id", "description": "Refers to commodity table for which the contract is being created"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "expiry_date", "description": "The date when contract expires"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "lot_size", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "contract_code", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "exchange_code", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "closing_account_id", "description": "refers to closing account of account table"}
+{"dataset_name": "VyttahMasters", "table_name": "contract", "column_name": "profit_and_loss_account_id", "description": "refers to profit and loss account of account table"}
+{"dataset_name": "VyttahMasters", "table_name": "country", "column_name": "code", "description": "code of contract"}
+{"dataset_name": "VyttahMasters", "table_name": "country", "column_name": "created_at", "description": "code of country"}
+{"dataset_name": "VyttahMasters", "table_name": "country", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "country", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "country", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "country", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "country", "column_name": "short_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "country", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "country", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "country", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "country", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "currency_id", "description": "refers to currency table for which the credit card operates"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "account_id", "description": "refers to account of given credit card"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "commission_account_id", "description": "refers to account where commission will charged"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "commission_percentage", "description": "percentage of commission"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "code", "description": "code of credit card"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "credit_card", "column_name": "card_type", "description": "We have two Types, CREDIT, DEBIT"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "code", "description": "code of currency"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "decimal", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "symbol", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "round_off", "description": "places till which value in this currency will be rounded off"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "conversion_factor", "description": "Conversion factor of given currency with respect to base currency"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "status", "description": "Whethe conversion is MULTIPLY or DIVIDE"}
+{"dataset_name": "VyttahMasters", "table_name": "currency", "column_name": "format", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "department", "column_name": "code", "description": "code of department"}
+{"dataset_name": "VyttahMasters", "table_name": "department", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "department", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "department", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "department", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "department", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "department", "column_name": "short_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "department", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "department", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "department", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "department", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "int_lock", "column_name": "region", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "int_lock", "column_name": "created_date", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "int_lock", "column_name": "lock_key", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "int_lock", "column_name": "client_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "high_purity", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "low_purity", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "code", "description": "Code of karat"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "karat", "column_name": "standard_purity", "description": "standard purity"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "link_to_currency_master", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "currency_id", "description": "If Link to currency master is true then currency will be linked to the making type"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "type", "description": "Its an enum that indicates what is the type related to this making type i.e, PURE_QTY, GROSS_QTY,  PCS"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "code", "description": "making type code"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "factor", "description": "factor to which it will be created into base unit(which will be Gms mostly)"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "making_type", "column_name": "currency_rate", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit", "column_name": "loss_limit", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit", "column_name": "amount_limit", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit", "column_name": "pdc_limit", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit", "column_name": "std_margin", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit", "column_name": "overall_limit", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit_commodity_margin_limit", "column_name": "commodity_margin_limit_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "margin_limit_commodity_margin_limit", "column_name": "margin_limit_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_brand", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_brand", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_brand", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_brand", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_brand", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_brand", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_brand", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_brand", "column_name": "code", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_brand", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_brand", "column_name": "short_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_brand", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_category", "column_name": "short_name", "description": "metal category short name"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_category", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_category", "column_name": "is_active", "description": "This shows whether metal_category is active or inactive"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_category", "column_name": "id", "description": "unique id"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_category", "column_name": "description", "description": "description about metal category"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_category", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_category", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_category", "column_name": "code", "description": "code of metal category"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_category", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_category", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_category", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_sub_category", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_sub_category", "column_name": "id", "description": "unique id"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_sub_category", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_sub_category", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_sub_category", "column_name": "code", "description": "code of metal sub category"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_sub_category", "column_name": "description", "description": "description of metal sub category"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_sub_category", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_sub_category", "column_name": "short_name", "description": "metal sub category short name"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_sub_category", "column_name": "is_active", "description": "This shows whether metal_category is active or inactive"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_sub_category", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_sub_category", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_type", "column_name": "code", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_type", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_type", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_type", "column_name": "short_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_type", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_type", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_type", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_type", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_type", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_type", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "metal_type", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "max_price", "description": "Maximum price for a commodity"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "spread", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "quantity_factor", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "prm", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "price_low", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "price_high", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "price_format", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "order_step", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "order_range", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "mpm", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "min_price", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "last_price", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "conversion_factor", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "bid_price", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "ask_price", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "order_parameter", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "cst_tin_no", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "final_destination", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "corr_bank_acc_no", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "income_tax_no", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "introduced_date", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "vat_type", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "introduced_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "port_of_discharge", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "ref_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "bank_acc_no", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "bank_acc_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "corr_bank_code", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "swift_no", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "vat_no", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_account_detail", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "debit_account_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "consider_for_sales_and_costing_analysis", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "is_auto_calculated", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "is_credit_combined_with_acc", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "is_debit_combined_with_acc", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "value", "description": "Value of charges if with with percentage is true"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "with_percentage", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "code", "description": "code of other charge"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "credit_option", "description": "Enum whether to credit the charge into which of the accounts (ASK,\n    CUSTOMER_ACCOUNT,\n    SUPPLIER_ACCOUNT,\n    SALES_ACCOUNT,\n    PURCHASE_ACCOUNT,\n    FIXED)"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "debit_option", "description": "Enum whether to debit the charge into which of the accounts."}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "operation", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "other_charge_type", "description": "Enum (sales, purchase)"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "short_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "other_charge", "column_name": "credit_account_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "profit_centre", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "profit_centre", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "profit_centre", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "profit_centre", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "profit_centre", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "profit_centre", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "profit_centre", "column_name": "code", "description": "profit center code"}
+{"dataset_name": "VyttahMasters", "table_name": "profit_centre", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "profit_centre", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "profit_centre", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "profit_centre_transaction_accounts", "column_name": "transaction_accounts_id", "description": "transaction account id of given profit center"}
+{"dataset_name": "VyttahMasters", "table_name": "profit_centre_transaction_accounts", "column_name": "profit_centre_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate", "column_name": "commodity_id", "description": "commodity"}
+{"dataset_name": "VyttahMasters", "table_name": "rate", "column_name": "rate_type_id", "description": "rate type for given rate"}
+{"dataset_name": "VyttahMasters", "table_name": "rate", "column_name": "value", "description": "rate value for given rate(will be from rate type only but can be changed by user too)"}
+{"dataset_name": "VyttahMasters", "table_name": "rate", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "status", "description": "enum for conversion (MULTIPLY, DIVIDE)"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "type", "description": "code for rate type"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "commodity_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "currency_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "round_off", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "link_to_currency_master", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "factor", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "currency_rate", "description": "rate of currency"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "rate_type", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "corresponding_bank_code", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "joining_date", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "leaving_date", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "passport_expiry_date", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "visa_expiry_date", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "visa_issue_date", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "reference_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "passport_number", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "notes", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "name", "description": "name of salesman"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "home_address", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "gender", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "emirates_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "designation", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "corresponding_bank_acc_no", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "code", "description": "code of salesman"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "bank_account_number", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "bank_account_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "emirates_id_exp_date", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "nationality_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "visa_number", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "swift_number", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "salesman_type", "description": "Enum (SALESMAN, EMPLOYEE, EMPLOYEE_AND_SALESMAN)"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "remark", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "confirmation_date", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "birth_date", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "other_address", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "business_address", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman", "column_name": "religion", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_contact_detail", "column_name": "salesman_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_contact_detail", "column_name": "value", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_contact_detail", "column_name": "name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_contact_detail", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_contact_detail", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_contact_detail", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_contact_detail", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_contact_detail", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_contact_detail", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_contact_detail", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_contact_detail_list", "column_name": "salesman_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_contact_detail_list", "column_name": "contact_detail_list_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_work_detail_list", "column_name": "work_detail_list_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "salesman_work_detail_list", "column_name": "salesman_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sequence", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sequence", "column_name": "year", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sequence", "column_name": "value", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sequence", "column_name": "name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "standard_making_cost", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "vat_id", "description": "reference to VAT table"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "unit_id", "description": "reference to unit table"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "metal_type_id", "description": "reference to metal type table"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "supplier_id", "description": "Account id of Supplier of the stock"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "making_type_id", "description": "making type of stock"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "karat_id", "description": "karat of stock"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "country_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "commodity_id", "description": "commodity"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "vat_applicable_only_on", "description": "Enum for vat can be applied on (METAL_AND_MAKING,MAKING)"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "symbol", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "supplier_ref", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "sub_stock_category", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "gpc_code", "description": "profit center code"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "details", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "code", "description": "code of stock"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "category", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "brand", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "standard_purity", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "selling_price", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "order_size", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "order_level", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "one_pcs_value", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "min_level", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "max_level", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "maintain_pcs_stock", "description": "If its true then stock will be maintained in pieces"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "bottom_price", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "auto_adjust_purity_loss", "description": "This parameters is responsible for plg qty calculations"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "stock", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sub_account", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sub_account", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sub_account", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sub_account", "column_name": "balance", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sub_account", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sub_account", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sub_account", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sub_account", "column_name": "commodity_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sub_account", "column_name": "account_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sub_account", "column_name": "type", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "sub_account", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "transaction_account", "column_name": "account_id", "description": "this is account id used in profitcenter"}
+{"dataset_name": "VyttahMasters", "table_name": "transaction_account", "column_name": "type", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "transaction_account", "column_name": "profit_centre_transactions_type", "description": "profite centre type"}
+{"dataset_name": "VyttahMasters", "table_name": "transaction_account", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "transaction_account", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "transaction_account", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "transaction_account", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "transaction_account", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "transaction_account", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "transaction_account", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "type", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "type", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "type", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "type", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "type", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "type", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "type", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "type", "column_name": "code", "description": "type code (used in analytical details of account)"}
+{"dataset_name": "VyttahMasters", "table_name": "type", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "type", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "type", "column_name": "short_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "code", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "short_name", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "status", "description": "enum (MULTIPLY, DIVIDE)"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "conversion_factor", "description": "Conversion factor with respect to base Unit(Gms here)"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "unit", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "registered_input_account_id", "description": "Registered Vat Input account"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "percentage", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "unregistered_output_account_id", "description": "Unegistered Vat Output account"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "registered_output_account_id", "description": "Registered Vat Output account"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "is_active", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "deleted", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "company_id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "last_modified_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "created_at", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "unregistered_input_account_id", "description": "Unregistered Vat Input account"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "id", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "created_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "last_modified_by", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "code", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "description", "description": "NaN"}
+{"dataset_name": "VyttahMasters", "table_name": "vat", "column_name": "control_account_id", "description": "Control account for vat"}
